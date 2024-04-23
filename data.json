@@ -1,0 +1,12 @@
+webData = {
+  "name": "Rick Astley",
+  "description": "Singer, Song writer, nerd",
+  "image": "rick.png",
+  "isAssetImage": true,
+  "social": {
+    "twitter": "rickastley",
+    "instagram": "officialrickastley",
+    "email": "sample@sample.com",
+    "website": "https://www.rickastley.co.uk/"
+  }
+}
