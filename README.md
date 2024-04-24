@@ -25,23 +25,3 @@ Navigate to `data.json` you will hit up something like this
 }
 ```
 
-You can figure out what its from the name I guess, if not create an issue .
-
-> Image can be direct URL or a local image, Local image should be placed in `/images` folder and `isAssetImage` should be true .
->
-> I know you didn't understand this checkout out below example
-
-For local image 
-
-> local image should be in `/images` folder
-
-```
-- assets
-- images
-	- myimage.png
-- data.json
-- index.html
-- LICENSE
-- README.md
-```
-
