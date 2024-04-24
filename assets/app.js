@@ -1,5 +1,3 @@
-// ! Do not try to edit this $hit 💩
-
 // fetch('../data.json')
 //   .then((result) => result.json())
 //   .then(renderData);

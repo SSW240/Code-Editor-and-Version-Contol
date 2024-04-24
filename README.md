@@ -1,8 +1,10 @@
-# Easy Web Template 🤩
+# SSW 240 Demo Source Code for git clone
 
 Simple easy to set up web template using HTML, CSS & JS
 
-anyone can customize website with `data.json` in root directory
+## Getting Started
+
+Clone the repository to your local machine using the git clone command
 
 ## Customization
 
@@ -43,22 +45,3 @@ For local image
 - README.md
 ```
 
-```json
-{
-  // don't forget to include the rest of properties
-  "image": "myimage.png",
-  "isAssetImage": true,
-}
-```
-
-For network image
-
-> It should be direct link, means when you click the link you should get into image
-
-```json
-{
-  // don't forget to include the rest of properties
-  "image": "https://www.w3schools.com/html/img_girl.jpg", // your image url
-  "isAssetImage": false,
-}
-```
